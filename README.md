@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahrukh Waqar, a Data Scinece enthusiast.
+- 👋 Hi, I’m @Mahrukh Waqar, a Data Science enthusiast.
 - 👀 A quick overview about my technical skill stack is given below.
    o Technical: Python, TensorFlow, Keras, PyTorch, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Skit Learn, SweetViz
    o Tools: Microsoft Office(Word, Power Point, Excel), PyCharm, ETL, Jupyter Notebook, Google Colab, Power BI, Tableau, Jira, GitHub 
